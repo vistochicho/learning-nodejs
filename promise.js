@@ -58,4 +58,4 @@ Promise.all([dog, laptop])
         const [dog, laptop] = resolve;
         console.log(dog);
         console.log(laptop);
-    })
+    });
